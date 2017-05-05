@@ -7,7 +7,7 @@
 1. Install `eslint-plugin-marionette` as a dev-dependency:
 
     ```shell
-    npm install --save-dev eslint-plugin-marionette
+    npm install --save-dev @silesia-corporation/eslint-plugin-marionette
     ```
 
 2. Enable the plugin by adding it to your `.eslintrc`:
