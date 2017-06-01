@@ -45,6 +45,7 @@ no-left-out-listeners                 | 1                |
 no-view-onoff-binding                 | 1                |
 require-guard-in-subapps-only         | 0                |
 when-guard-in-controller-only         | 0                |
+no-translate-in-defaults              | 0                |
 
 For example, using the recommended configuration, the `deprecated-marionette-composite-view` rule
 is enabled and will cause ESLint to throw an error (with an exit code of `1`)
