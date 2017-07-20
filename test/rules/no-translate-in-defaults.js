@@ -1,5 +1,5 @@
 import test from 'ava';
-import rule from '../../lib/rules/translate-in-defaults-forbidden';
+import rule from '../../lib/rules/no-translate-in-defaults';
 import AvaRuleTester from 'eslint-ava-rule-tester';
 
 const ruleTester = new AvaRuleTester(test, {

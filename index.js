@@ -13,13 +13,13 @@ module.exports = {
     configs: {
         recommended: {
             rules: {
-                'marionette/deprecated-marionette-composite-view': 1,
-                'marionette/no-config-requiring': 0,
-                'marionette/no-left-out-listeners': 1,
-                'marionette/no-view-onoff-binding': 1,
-                'marionette/require-guard-in-subapps-only': 0,
-                'marionette/when-guard-in-controller-only': 0,
-                'marionette/no-translate-in-defaults': 0
+                '@silesia-corporation/marionette/deprecated-marionette-composite-view': 1,
+                '@silesia-corporation/marionette/no-config-requiring': 0,
+                '@silesia-corporation/marionette/no-left-out-listeners': 1,
+                '@silesia-corporation/marionette/no-view-onoff-binding': 1,
+                '@silesia-corporation/marionette/require-guard-in-subapps-only': 0,
+                '@silesia-corporation/marionette/when-guard-in-controller-only': 0,
+                '@silesia-corporation/marionette/no-translate-in-defaults': 0
             }
         }
     }
